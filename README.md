@@ -1,4 +1,4 @@
-# table_list
+# demosite-adminportal
 
 ## Project setup
 ```
